@@ -1,0 +1,21 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  font-family: monospace;
+}
+.popup{
+  max-width: 75%;
+  height: auto;
+  background-color: aqua;
+  border-radius: 5px;
+  position: absolute;
+  botton: 5%;
+  left: 16%;
+  padding: 5px 20px 5px 20px;
+  -moz-box-shadow: 3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 1px 1px #ccc;
+  box-shadow: aliceblue;
+  z-index: 1109;
+}
