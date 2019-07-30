@@ -1,10 +1,10 @@
 # augmented reality!
 
-# MODAL1
+# modal1
 
 **PREVIEW** 
 
-![PREVIEW](https://imagizer.imageshack.com/img924/4592/cxYTIO.png)
+![PREVIEW](https://deeppaz.github.io/ar_techn/)
 
 
 > devam etmekte...
