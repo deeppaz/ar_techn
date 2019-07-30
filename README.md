@@ -4,7 +4,7 @@
 
 **PREVIEW** 
 
-![PREVIEW](https://deeppaz.github.io/ar_techn/)
+![PREVIEW]*https://deeppaz.github.io/ar_techn/*
 
 
 > devam etmekte...
