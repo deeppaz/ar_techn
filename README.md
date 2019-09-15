@@ -5,7 +5,7 @@
 **PREVIEW** 
 *https://deeppaz.github.io/ar_techn/*
 
-
+- ![](https://i.hizliresim.com/BOgPGL.png)
 
 ------------------------------------------------------
 > devam etmekte...
