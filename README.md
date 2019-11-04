@@ -9,9 +9,6 @@
 
 ------------------------------------------------------
 > devam etmekte...
-> devam etmekte...
-
-> devam etmekte...
 
 
 ### ULASABILIRSINIZ:
